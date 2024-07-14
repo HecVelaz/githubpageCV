@@ -1,2 +1,1 @@
-# githubpageCV
-CV
+# diegostapy.github.io
